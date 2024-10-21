@@ -1,0 +1,5 @@
+torch
+torchvision
+opencv-python-headless
+imageio==2.4.1
+moviepy
